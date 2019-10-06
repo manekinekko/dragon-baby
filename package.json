@@ -1,0 +1,17 @@
+{
+  "name": "@manekinekko/dragon-baby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": "index.js",
+  "keywords": [
+    "baby",
+    "dragon"
+  ],
+  "author": "Wassim Chegham <wassim.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-progress": "^1.0.5"
+  }
+}
